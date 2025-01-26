@@ -69,7 +69,7 @@ A modern, dynamic weather application built with Android Studio, leveraging Open
   - **Solution**: Combined Retrofit with ObjectBox for smooth data flow.
 
 # **Demo 📸**
-👉 Click the image to watch the demo.
+👉  [Download APK](https://github.com/shaddytosh/weather-forecast/blob/main/weather-forecast-1.0.1-release.apk)
 
 # **License 📜**
 This app is licensed under the [Apache License 2.0](LICENSE). See the LICENSE file for details.
