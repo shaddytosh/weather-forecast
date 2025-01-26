@@ -75,5 +75,4 @@ A modern, dynamic weather application built with Android Studio, leveraging Open
 This app is licensed under the [Apache License 2.0](LICENSE). See the LICENSE file for details.
 
 # **Credits 🙌**
-- **Concept Design**: Raman Yv.
 - **Weather Data**: OpenWeatherMap.
